@@ -1,0 +1,13 @@
+STUDENT EXPENSE MANAGER
+1. Add Expense
+2. View All Expenses
+3. Update Expense
+4. Delete Expense
+5. View Expense Summary
+6. View Category-wise Summary
+7. Exit
+
+Example summary:
+Number of expenses : 3
+Total expense      : ₹350.00
+Average expense    : ₹116.67
